@@ -5,6 +5,4 @@ const stringLength = (string) => {
   return 'Error, length exceeded.';
 }
 
-console.log(stringLength('Hello'));
-
 module.exports = stringLength;
